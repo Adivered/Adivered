@@ -22,6 +22,6 @@ Pursuing a Bachelor of Science in Computer Science.
 </a>
 
 <a href="https://github.com/Adivered/Adivered/assets/97107044/50500571-d2ad-452a-988c-a85fa54560b8">
-    <img src="https://github.com/Adivered/Adivered/assets/97107044/50500571-d2ad-452a-988c-a85fa54560b8" width="300" />
+    <img src="https://github.com/Adivered/Adivered/assets/97107044/50500571-d2ad-452a-988c-a85fa54560b8" height="50" width="50" />
 </a>
 
