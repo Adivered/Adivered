@@ -10,7 +10,7 @@ Pursuing a Bachelor of Science in Computer Science.
 
 ### 🛠 Skills:
 <a href="https://github.com/Adivered/Adivered/assets/97107044/9d3fac08-7bd0-4a78-8604-387e138277a1">
-    <img src="https://github.com/Adivered/Adivered/assets/97107044/9d3fac08-7bd0-4a78-8604-387e138277a1" width="300" />
+    <img src="https://github.com/Adivered/Adivered/assets/97107044/9d3fac08-7bd0-4a78-8604-387e138277a1" height="25" width="25" />
 </a>
 
 <a href="https://github.com/Adivered/Adivered/assets/97107044/d016591c-4441-4495-b652-8cde9cb82efa">
