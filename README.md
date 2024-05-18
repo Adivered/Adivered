@@ -1,16 +1,13 @@
-### Hi there 👋
+### Adi Vered's Portfolio 🚀
 
-<!--
-**Adivered/Adivered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
+I'm Adi, an experienced software developer and a second-year Computer Science student. 
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🎓 Education: 
+Pursuing a Bachelor of Science in Computer Science.
+
+# 🛠 Skills:
+C# Java Python MongoDB
+![image](https://github.com/Adivered/Adivered/assets/97107044/494ea97f-640d-4c1f-b5cf-2d2fcc9f9789)
