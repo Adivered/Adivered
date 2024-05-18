@@ -9,11 +9,19 @@ I'm Adi, an experienced software developer and a second-year Computer Science st
 Pursuing a Bachelor of Science in Computer Science.
 
 ### 🛠 Skills:
-![image](https://github.com/Adivered/Adivered/assets/97107044/5cd37f33-5d25-4c5c-a2cd-8825a3f13e26)
+<a href="https://github.com/Adivered/Adivered/assets/97107044/9d3fac08-7bd0-4a78-8604-387e138277a1">
+    <img src="https://github.com/Adivered/Adivered/assets/97107044/9d3fac08-7bd0-4a78-8604-387e138277a1" width="300" />
+</a>
 
-![image](https://github.com/Adivered/Adivered/assets/97107044/d016591c-4441-4495-b652-8cde9cb82efa)
+<a href="https://github.com/Adivered/Adivered/assets/97107044/d016591c-4441-4495-b652-8cde9cb82efa">
+    <img src="https://github.com/Adivered/Adivered/assets/97107044/d016591c-4441-4495-b652-8cde9cb82efa" width="300" />
+</a>
 
-![image](https://github.com/Adivered/Adivered/assets/97107044/f14c05e3-8c57-497f-b993-3c35070957e5)
+<a href="https://github.com/Adivered/Adivered/assets/97107044/f14c05e3-8c57-497f-b993-3c35070957e5">
+    <img src="https://github.com/Adivered/Adivered/assets/97107044/f14c05e3-8c57-497f-b993-3c35070957e5" width="300" />
+</a>
 
-![image](https://github.com/Adivered/Adivered/assets/97107044/50500571-d2ad-452a-988c-a85fa54560b8)
+<a href="https://github.com/Adivered/Adivered/assets/97107044/50500571-d2ad-452a-988c-a85fa54560b8">
+    <img src="https://github.com/Adivered/Adivered/assets/97107044/50500571-d2ad-452a-988c-a85fa54560b8" width="300" />
+</a>
 
