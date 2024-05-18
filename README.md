@@ -5,10 +5,11 @@ I'm Adi, an experienced software developer and a second-year Computer Science st
 
 ## 🌟 About Me
 
-###🎓 Education: 
+### 🎓 Education: 
 Pursuing a Bachelor of Science in Computer Science.
 
 ### 🛠 Skills:
+<p>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://github.com/Adivered/Adivered/assets/97107044/9d3fac08-7bd0-4a78-8604-387e138277a1" height="25" width="25" />
 </a>
@@ -24,4 +25,4 @@ Pursuing a Bachelor of Science in Computer Science.
 <a href="https://react.dev/">
     <img src="https://github.com/Adivered/Adivered/assets/97107044/50500571-d2ad-452a-988c-a85fa54560b8" height="25" width="25" />
 </a>
-
+</p>
