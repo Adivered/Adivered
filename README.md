@@ -1,7 +1,7 @@
 # Adi Vered's Portfolio 🚀
 
 Welcome to my GitHub profile! 
-I'm Adi, an experienced software developer and a second-year Computer Science student. 
+I'm Adi, an experienced software developer and a third-year Computer Science student. 
 
 ## 🌟 About Me
 
