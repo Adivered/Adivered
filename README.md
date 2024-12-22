@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! 
 I'm Adi, an experienced software developer and a third-year Computer Science student. 
+
+
 <a href="https://adi-v-res.netlify.app/">My Portfolio<a/>
 
 ## 🌟 About Me
